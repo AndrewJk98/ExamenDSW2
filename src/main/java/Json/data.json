@@ -1,0 +1,86 @@
+[
+  {
+    "estado": false,
+    "nro_cuenta": 17880832,
+    "saldo": 8532.3791,
+    "banco": "bcp"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 17002868,
+    "saldo": 7191.4801,
+    "banco": "scotiabank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 15792473,
+    "saldo": 1123.4477,
+    "banco": "scotiabank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 11577489,
+    "saldo": 4611.0533,
+    "banco": "interbank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 18440711,
+    "saldo": 8064.7239,
+    "banco": "mibanco"
+  },
+  {
+    "estado": false,
+    "nro_cuenta": 16374290,
+    "saldo": 1318.6806,
+    "banco": "mibanco"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 13615102,
+    "saldo": 9339.7691,
+    "banco": "interbank"
+  },
+  {
+    "estado": false,
+    "nro_cuenta": 16566818,
+    "saldo": 3452.2922,
+    "banco": "scotiabank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 12893644,
+    "saldo": 7428.7981,
+    "banco": "scotiabank"
+  },
+  {
+    "estado": false,
+    "nro_cuenta": 19579582,
+    "saldo": 1997.0904,
+    "banco": "interbank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 19493402,
+    "saldo": 7340.2612,
+    "banco": "scotiabank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 19546759,
+    "saldo": 8454.2036,
+    "banco": "scotiabank"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 18098583,
+    "saldo": 4364.4898,
+    "banco": "mibanco"
+  },
+  {
+    "estado": true,
+    "nro_cuenta": 15914677,
+    "saldo": 8216.1771,
+    "banco": "interbank"
+  }
+]

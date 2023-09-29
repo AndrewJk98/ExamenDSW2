@@ -1,0 +1,4 @@
+Banco de origen: scotiabank
+La cuenta con el nro de cuenta: 15792473 tiene un saldo de 1123.4477
+Lamentablemente no podrá acceder al concurso de la SBS por 10000.00 soles. 
+Gracias

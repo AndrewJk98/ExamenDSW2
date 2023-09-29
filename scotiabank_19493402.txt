@@ -1,0 +1,4 @@
+Banco de origen: scotiabank
+La cuenta con el nro de cuenta: 19493402 tiene un saldo de 7340.2612
+Usted es apto a participar en el concurso de la SBS por 10000.00 soles. 
+Suerte!
